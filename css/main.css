@@ -1,0 +1,22 @@
+body {
+    margin: auto;
+}
+
+.bird-container {
+    padding-top: 16px;
+    margin: auto;
+}
+
+.bird-container {
+    text-align: center;
+}
+
+.bird-container img {
+    width: 250px;
+    object-fit: cover;
+}
+
+.bird-container p {
+    color: #777;
+    font-size: 9px;
+}
